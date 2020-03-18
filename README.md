@@ -36,3 +36,9 @@ Enjoy, and have a good day! :)
   </ul>
 
 
+## Latest papers
+
+- A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)[[code]](https://github.com/gopala-kr/generative-models/blob/master/GAN-theory-and-ml.md)
+- A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
+- A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
+- A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](
