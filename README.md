@@ -9,15 +9,20 @@ This repository provides list of Vision papers.
 ## Contents
 
 - [Recommendations](#Recommendations)
-  - d
-  - d
+
+  - [Overview](#Overview)
+  - [Paper road map](#Paper road map)
+
 - [Latest papers](#Latest papers)
+
   - [Topic1](#Topic1)
-- 
-- [Public Datasets](##Public Datasets)
-- [Tutorials & Workshops & Blogs](#tutorials--workshops--blogs)
+  - [Topic2](#Topic2)
 
+- [Public Datasets](#Public Datasets)
 
+- [Blogs Courses & Tutorials](#Blogs Courses & Tutorials)
+
+  
 
 ## Recommendations
 
@@ -79,13 +84,11 @@ This repository provides list of Vision papers.
 
 
 
-## Blogs
+## Blogs Courses & Tutorials
 
 - [Deep Learning Meets Recommendation Systems by Wann-Jiun](https://blog.nycdatascience.com/student-works/deep-learning-meets-recommendation-systems/) 
 
 - [Quora: Has there been any work on using deep learning for recommendation engines?](https://www.quora.com/Has-there-been-any-work-on-using-deep-learning-for-recommendation-engines).
-
-## Courses & Tutorials
 
 - Recommender Systems Specialization [Coursera](https://www.coursera.org/specializations/recommender-systems)
 
