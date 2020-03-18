@@ -7,8 +7,8 @@ This repository provides list of Vision papers.
 ## Contents
 
 - [Recommendations](#recommendations)
-- [latest paper](#latest paper)
-- [Public Datasets](#Public Datasets)
+- [Latest papers](#Latest papers)
+- [Public Datasets](##Public Datasets)
 - [Tutorials & Workshops & Blogs](#tutorials--workshops--blogs)
 
 
@@ -47,7 +47,7 @@ This repository provides list of Vision papers.
 
 
 
-# Latest papers('19~'20)
+# Latest papers
 
 ### Topic1
 
@@ -55,8 +55,6 @@ This repository provides list of Vision papers.
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
-
-------
 
 ### Topic2
 
