@@ -1,4 +1,4 @@
-# Awesome Vision NLP Papers
+# Awesome Vision Papers
 
 This repository provides list of Vision papers.
 
