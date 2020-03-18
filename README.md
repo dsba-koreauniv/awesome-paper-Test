@@ -31,7 +31,7 @@ This repository provides list of Vision papers.
 <ul>
 <li>Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis,ICCV 2017  <a href="https://arxiv.org/abs/1704.04086">[paper]</a> 
  <a href="https://github.com/HRLTY/TP-GAN">[code]</a>
- <a href="https://ratsgo.github.io/generative%20model/2017/12/21/gans/">[nte&slide]</a>   
+ <a href="https://ratsgo.github.io/generative%20model/2017/12/21/gans/">[note&slide]</a>   
 <img src="http://it-caesar.com/github/beyond-face-rotation.png" alt="Beyond face rotation"></li>
 	<li>Pose Guided Person Image Generation   ,NIPS 2017
         <a href="https://arxiv.org/abs/1705.09368">[paper]</a> 
@@ -80,7 +80,7 @@ This repository provides list of Vision papers.
 ## Public Datasets
 
 - **KASANDR**: A Large-Scale Dataset with Implicit Feedback for Recommendation (SIGIR 2017).
-  [[pdf]](http://ama.liglab.fr/~sidana/PDF/SIGIR17_short) [[KASANDR Data Set ](http://archive.ics.uci.edu/ml/datasets/KASANDR)]
+  [[pdf]](http://ama.liglab.fr/~sidana/PDF/SIGIR17_short) [[KASANDR Data Set](http://archive.ics.uci.edu/ml/datasets/KASANDR)]
 
 
 
