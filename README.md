@@ -1,3 +1,4 @@
+### test
 # Awesome Vision Papers
 
 ### 1. GAN
@@ -47,16 +48,16 @@
 
 ## Paper road map
 
-| Titile                                                       |     Booktitle      | Resources                                                    |
-| ------------------------------------------------------------ | :----------------: | ------------------------------------------------------------ |
-| **GRU4Rec**:Session-based Recommendations with Recurrent Neural Networks |     ICLR'2016      | [[pdf]](https://arxiv.org/pdf/1511.06939.pdf)[[code]](https://github.com/hidasib/GRU4Rec) |
-| **DREAM**:A Dynamic Recurrent Model for Next Basket Recommendation |     SIGIR'2016     | [[pdf]](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/A%20Dynamic%20Recurrent%20Model%20for%20Next%20Basket%20Recommendation.pdf)[[code]](https://github.com/LaceyChen17/DREAM) |
-| Long and Short-Term Recommendations with Recurrent Neural Networks |     UMAP’2017      | [[pdf]](http://iridia.ulb.ac.be/~rdevooght/papers/UMAP__Long_and_short_term_with_RNN.pdf)[[Theano]](https://github.com/rdevooght/sequence-based-recommendations) |
-| **Time-LSTM**:What to Do Next: Modeling User Behaviors by Time-LSTM |     IJCAI'2017     | [[pdf]](http://static.ijcai.org/proceedings-2017/0504.pdf) [[code]](https://github.com/DarryO/time_lstm) |
-| **Caser**:Personalized Top-N Sequential Recommendation via Convolutional Sequence EmbeddingCaser |     WSDM'2018      | [[pdf]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf) [[code]](https://github.com/graytowne/caser_pytorch) |
-| **SASRec**:Self-Attentive Sequential Recommendation          |     ICDM'2018      | [[pdf]](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf)[[code]](https://github.com/kang205/SASRec) |
-| **BERT4Rec**:BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer | ACM WOODSTOCK’2019 | [[pdf]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec) |
-| **SR-GNN**: Session-based Recommendation with Graph Neural Networks |     AAAI'2019      | [[pdf]](https://arxiv.org/pdf/1811.00855v4.pdf) [[code]](https://github.com/CRIPAC-DIG/SR-GNN) |
+| Titile                                                                                                       |     Booktitle      | Resources                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------ | :----------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GRU4Rec**:Session-based Recommendations with Recurrent Neural Networks                                     |     ICLR'2016      | [[pdf]](https://arxiv.org/pdf/1511.06939.pdf)[[code]](https://github.com/hidasib/GRU4Rec)                                                                                               |
+| **DREAM**:A Dynamic Recurrent Model for Next Basket Recommendation                                           |     SIGIR'2016     | [[pdf]](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/A%20Dynamic%20Recurrent%20Model%20for%20Next%20Basket%20Recommendation.pdf)[[code]](https://github.com/LaceyChen17/DREAM) |
+| Long and Short-Term Recommendations with Recurrent Neural Networks                                           |     UMAP’2017      | [[pdf]](http://iridia.ulb.ac.be/~rdevooght/papers/UMAP__Long_and_short_term_with_RNN.pdf)[[Theano]](https://github.com/rdevooght/sequence-based-recommendations)                        |
+| **Time-LSTM**:What to Do Next: Modeling User Behaviors by Time-LSTM                                          |     IJCAI'2017     | [[pdf]](http://static.ijcai.org/proceedings-2017/0504.pdf) [[code]](https://github.com/DarryO/time_lstm)                                                                                |
+| **Caser**:Personalized Top-N Sequential Recommendation via Convolutional Sequence EmbeddingCaser             |     WSDM'2018      | [[pdf]](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf) [[code]](https://github.com/graytowne/caser_pytorch)                                                                       |
+| **SASRec**:Self-Attentive Sequential Recommendation                                                          |     ICDM'2018      | [[pdf]](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf)[[code]](https://github.com/kang205/SASRec)                                                                                   |
+| **BERT4Rec**:BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer | ACM WOODSTOCK’2019 | [[pdf]](https://arxiv.org/abs/1904.06690)[[code]](https://github.com/FeiSun/BERT4Rec)                                                                                                   |
+| **SR-GNN**: Session-based Recommendation with Graph Neural Networks                                          |     AAAI'2019      | [[pdf]](https://arxiv.org/pdf/1811.00855v4.pdf) [[code]](https://github.com/CRIPAC-DIG/SR-GNN)                                                                                          |
 
 
 
