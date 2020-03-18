@@ -4,14 +4,12 @@ This repository provides list of Vision papers.
 
 
 
+
+
 ## Contents
 
-
-
-[TOC]
-
-
-
+- [Recommendations](#Recommendations)
+- 
 - [Public Datasets](##Public Datasets)
 - [Tutorials & Workshops & Blogs](#tutorials--workshops--blogs)
 
