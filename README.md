@@ -11,7 +11,7 @@ This repository provides list of Vision papers.
 - [Recommendations](#Recommendations)
 
   - [Overview](#Overview)
-  - [Paper road map](#Paper road map)
+  - [Paper read map](#Paper road map)
 
 - [Latest papers](#Latest papers)
 
