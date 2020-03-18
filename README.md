@@ -8,7 +8,7 @@ This repository provides list of Vision papers.
 
 - [Recommendations](#recommendations)
 - [Latest papers](#Latest papers)
-- [Public Datasets](## Public Datasets)
+- [Public Datasets](#Public Datasets)
 - [Tutorials & Workshops & Blogs](#tutorials--workshops--blogs)
 
 
@@ -47,7 +47,7 @@ This repository provides list of Vision papers.
 
 
 
-# Latest papers
+## Latest papers
 
 ### Topic1
 
