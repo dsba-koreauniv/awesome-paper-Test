@@ -23,7 +23,7 @@
 
 - [Blogs Courses & Tutorials](#blogs-courses--tutorials)
 
-  test
+
 
 ## Recommendations
 
