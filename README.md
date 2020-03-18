@@ -29,7 +29,7 @@
 
 ### Overview
 
-​	SOTA or Popular paper
+#### 	SOTA or Popular paper
 
 <ul>
 <li>Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis,ICCV 2017  <a href="https://arxiv.org/abs/1704.04086">[paper]</a> 
