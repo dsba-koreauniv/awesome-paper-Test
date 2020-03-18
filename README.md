@@ -11,16 +11,16 @@ This repository provides list of Vision papers.
 - [Recommendations](#Recommendations)
 
   - [Overview](#Overview)
-  - [Paper read map](#Paper road map)
+  - [Paper read map](#Paper-road-map)
 
-- [Latest papers](#Latest papers)
+- [Latest papers](#Latest-papers)
 
   - [Topic1](#Topic1)
   - [Topic2](#Topic2)
 
-- [Public Datasets](#Public Datasets)
+- [Public Datasets](#Public-Datasets)
 
-- [Blogs Courses & Tutorials](#Blogs Courses & Tutorials)
+- [Blogs Courses & Tutorials](#Blogs-Courses-&-Tutorials)
 
   
 
