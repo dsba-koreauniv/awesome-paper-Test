@@ -1,8 +1,8 @@
 # Awesome Vision Papers
 
-This repository provides list of Vision papers.
+### 1. GAN
 
-
+### 2. Adversarial Example
 
 
 
@@ -11,12 +11,13 @@ This repository provides list of Vision papers.
 - [Recommendations](#Recommendations)
 
   - [Overview](#Overview)
-  - [Paper read map](#Paper-road-map)
+  - [Paper road map](#Paper-road-map)
 
 - [Latest papers](#Latest-papers)
 
-  - [Topic1](#Topic1)
-  - [Topic2](#Topic2)
+  - [GAN](#GAN)
+  - [Adversarial example](#Adversarial-example)
+  - [Applied Adversarial example ](#Applied-Adversarial-example)
 
 - [Public Datasets](#Public-Datasets)
 
@@ -27,6 +28,8 @@ This repository provides list of Vision papers.
 ## Recommendations
 
 ### Overview
+
+​	SOTA or Popular paper
 
 <ul>
 <li>Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis,ICCV 2017  <a href="https://arxiv.org/abs/1704.04086">[paper]</a> 
@@ -60,22 +63,24 @@ This repository provides list of Vision papers.
 
 ## Latest papers
 
-### Topic1
+### GAN
 
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)[[code]](https://github.com/gopala-kr/generative-models/blob/master/GAN-theory-and-ml.md)
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
 
-### Topic2
+### Adversarial example
 
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)[[code]](https://github.com/gopala-kr/generative-models/blob/master/GAN-theory-and-ml.md)
-
 - A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
-
 - A General Retraining Framework for Scalable Adversarial Classification [[Paper]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_2.pdf)
 
-  
+### Applied Adversarial example
+
+- A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)[[code]](https://github.com/gopala-kr/generative-models/blob/master/GAN-theory-and-ml.md)
+- A Classification-Based Perspective on GAN Distributions, ICLR 2018 [[paper]](https://arxiv.org/abs/1711.00970)
+- A General Retraining Framework for Scalable Adversarial Classification [[Paper]](
 
 ## Public Datasets
 
